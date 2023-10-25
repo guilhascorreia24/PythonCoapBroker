@@ -1,0 +1,16 @@
+version: '1'
+services:
+  efento-server:
+    image: efentocoap-server
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - efento_server:/efento_server
+    ports:
+      - "4040:4040/udp"
+    expose:
+      - 4040
+
+volumes:
+  efento_server:

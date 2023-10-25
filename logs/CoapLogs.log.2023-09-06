@@ -1,0 +1,2 @@
+2023-09-11 12:30:31,842 - 11070 - INFO - logsConfig -  request: <aiocoap.Message at 0x7ff69d7c1370: CON POST (MID 47517, token 4514) remote <UDP6EndpointAddress 127.0.0.1:45675 (locally 127.0.0.1%lo)>, 1 option(s)> payload: b''
+2023-09-11 12:30:31,950 - 11178 - INFO - logsConfig -  response: <aiocoap.Message at 0x7ff69e3ca220: ACK 2.01 Created (no MID, token 4514) remote None>

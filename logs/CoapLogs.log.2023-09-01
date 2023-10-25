@@ -1,0 +1,6 @@
+2023-09-04 15:02:06,892 - 17237 - INFO - logsConfig - received payload: b'\n\x06(,\x02@\xfd4\x10\x01\x18<"\x0e\x08\x01\x10\xdc\xb6\xbc\xa3\x06 \x86\x03*\x01\x00"\x0e\x08\x02\x10\xdc\xb6\xbc\xa3\x06 \x8e\x01*\x01\x00(\xfd\xba\xbc\xa3\x060\x048\t@\x01H\xa1\x01\x82\x01\x00'
+2023-09-04 15:02:06,989 - 17334 - INFO - logsConfig - [{'serialNum': 'KCwCQP00', 'batteryStatus': True, 'measurementPeriodBase': 60, 'channels': [{'type': 'MEASUREMENT_TYPE_TEMPERATURE', 'timestamp': 1685003100, 'startPoint': 195, 'sampleOffsets': [0]}, {'type': 'MEASUREMENT_TYPE_HUMIDITY', 'timestamp': 1685003100, 'startPoint': 71, 'sampleOffsets': [0]}], 'nextTransmissionAt': 1685003645, 'transferReason': 4, 'signal': 9, 'measurementPeriodFactor': 1, 'hash': 161}]
+2023-09-04 15:02:06,993 - 17338 - INFO - logsConfig - Payload to send: {"measurements": null}
+2023-09-04 15:02:07,779 - 18124 - INFO - logsConfig - Thingworx post: URL -  https://vf0109.dev.vbinvent.iot.vodafone.com/Thingworx/Things/AT.Connection.Hub/Services/ReceiveMessageFromBrokerEfento PAYLOAD -  {"measurements": null}
+2023-09-04 15:02:07,787 - 18132 - ERROR - logsConfig - aqui error:Expecting value: line 1 column 1 (char 0)
+2023-09-04 15:02:07,792 - 18138 - INFO - logsConfig - send Ack: 
