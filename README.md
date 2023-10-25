@@ -158,7 +158,6 @@ Efento Coap Loader
 https://getefento.com/library/efento-nb-iot-sensors-integration-with-a-python-coap-server/
 
 ### Autors
-Team Alberto Dorado López, Industry Atos
 - Guilherme Correia
 - Denis Botnaru
 
